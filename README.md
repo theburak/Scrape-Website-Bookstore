@@ -8,16 +8,17 @@ This project demonstrates web scraping using Python. The goal is to retrieve dat
 ## Libraries used
 
 - beautifulsoup4==4.12.3
-- pandas==2.2.2
-- regex==2024.7.24
+- pandas==2.2.3
+- regex==2024.11.6
 - requests==2.32.3
-- selenium==4.23.1
+- selenium==4.27.1
+- openpyxl==3.1.5
 
 ## How to run
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ibrahmkocaa/Web-Scraping-Project
+   git clone https://github.com/theburak/Scrape-Website-Bookstore.git
    ```
 2. Install the required libraries:
    ```bash
