@@ -1,5 +1,6 @@
 # Scrape-Website-Bookstore
 - https://books.toscrape.com
+
 This project demonstrates web scraping using Python. The goal is to retrieve data from a book e-commerce site and display this information.
 
 ## Libraries used
