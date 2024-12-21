@@ -13,6 +13,7 @@ This project demonstrates web scraping using Python. The goal is to retrieve dat
 - requests==2.32.3
 - selenium==4.27.1
 - openpyxl==3.1.5
+- pillow==11.0.0
 
 ## How to run
 
@@ -24,7 +25,7 @@ This project demonstrates web scraping using Python. The goal is to retrieve dat
    ```bash
    pip install -r requirements.txt
    ```
-3. Open the file and run cells:
+3. Open the file and run:
    ```bash
    ScrapingProject.py
    ```
