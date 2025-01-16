@@ -26,11 +26,13 @@ This project demonstrates web scraping using Python. The goal is to retrieve dat
 3. Open the file and run:
    ```bash
    ScrapingProject.py
+   ScrapeStepbyStep.py
    ```
 
 ## Files
 
 - `ScrapingProject.py`: Main notebook file
+- `ScrapeStepbyStep.py`: Explanatory notebook file
 - `requirements.txt`: List of required libraries
 
 ## Project steps
